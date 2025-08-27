@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1756237379 source:c:\users\duda\downloads\listasequencial\questao23\main.c
+	<stdio.h>
+	<stdlib.h>
+
